@@ -1,0 +1,12 @@
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\bin\Debug\Quiz.exe.config
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\bin\Debug\Quiz.exe
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\bin\Debug\Quiz.pdb
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\obj\Debug\Quiz.Quiz.resources
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\obj\Debug\Quiz.Start.resources
+D:\Scoala\Anul_2\Sem_1\Java\Quiz\Quiz\obj\Debug\Quiz.AddQuestion.resources
